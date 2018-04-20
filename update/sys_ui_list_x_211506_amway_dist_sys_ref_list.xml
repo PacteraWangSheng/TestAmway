@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>user_id</element>
-            <list_id display_value="x_211506_amway_dist" element="NULL" name="x_211506_amway_dist" parent="NULL" relationship="NULL" sys_domain="global" view="840d3162b92013006517ce7df7ee468d">15431d394f61130017f330318110c785</list_id>
+            <list_id display_value="x_211506_amway_dist" element="NULL" name="x_211506_amway_dist" parent="NULL" relationship="NULL" sys_domain="global" view="c2db0170db2113009f2df4eb0c96199a">15431d394f61130017f330318110c785</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -19,7 +19,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>first_name</element>
-            <list_id display_value="x_211506_amway_dist" element="NULL" name="x_211506_amway_dist" parent="NULL" relationship="NULL" sys_domain="global" view="840d3162b92013006517ce7df7ee468d">15431d394f61130017f330318110c785</list_id>
+            <list_id display_value="x_211506_amway_dist" element="NULL" name="x_211506_amway_dist" parent="NULL" relationship="NULL" sys_domain="global" view="c2db0170db2113009f2df4eb0c96199a">15431d394f61130017f330318110c785</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -34,7 +34,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>last_name</element>
-            <list_id display_value="x_211506_amway_dist" element="NULL" name="x_211506_amway_dist" parent="NULL" relationship="NULL" sys_domain="global" view="840d3162b92013006517ce7df7ee468d">15431d394f61130017f330318110c785</list_id>
+            <list_id display_value="x_211506_amway_dist" element="NULL" name="x_211506_amway_dist" parent="NULL" relationship="NULL" sys_domain="global" view="c2db0170db2113009f2df4eb0c96199a">15431d394f61130017f330318110c785</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -49,7 +49,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>address</element>
-            <list_id display_value="x_211506_amway_dist" element="NULL" name="x_211506_amway_dist" parent="NULL" relationship="NULL" sys_domain="global" view="840d3162b92013006517ce7df7ee468d">15431d394f61130017f330318110c785</list_id>
+            <list_id display_value="x_211506_amway_dist" element="NULL" name="x_211506_amway_dist" parent="NULL" relationship="NULL" sys_domain="global" view="c2db0170db2113009f2df4eb0c96199a">15431d394f61130017f330318110c785</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -64,7 +64,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>email</element>
-            <list_id display_value="x_211506_amway_dist" element="NULL" name="x_211506_amway_dist" parent="NULL" relationship="NULL" sys_domain="global" view="840d3162b92013006517ce7df7ee468d">15431d394f61130017f330318110c785</list_id>
+            <list_id display_value="x_211506_amway_dist" element="NULL" name="x_211506_amway_dist" parent="NULL" relationship="NULL" sys_domain="global" view="c2db0170db2113009f2df4eb0c96199a">15431d394f61130017f330318110c785</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -79,7 +79,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>birthday</element>
-            <list_id display_value="x_211506_amway_dist" element="NULL" name="x_211506_amway_dist" parent="NULL" relationship="NULL" sys_domain="global" view="840d3162b92013006517ce7df7ee468d">15431d394f61130017f330318110c785</list_id>
+            <list_id display_value="x_211506_amway_dist" element="NULL" name="x_211506_amway_dist" parent="NULL" relationship="NULL" sys_domain="global" view="c2db0170db2113009f2df4eb0c96199a">15431d394f61130017f330318110c785</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
@@ -116,7 +116,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-04-19 04:32:22</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">840d3162b92013006517ce7df7ee468d</view>
+            <view display_value="Reference List" name="sys_ref_list">c2db0170db2113009f2df4eb0c96199a</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

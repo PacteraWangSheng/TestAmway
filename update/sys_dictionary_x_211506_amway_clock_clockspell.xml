@@ -54,15 +54,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-20 01:51:48</sys_created_on>
-        <sys_id>d0df21c64fe9130017f330318110c767</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_id>ffa936cadb2d57009f2df4eb0c961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>刻印のスペル：</sys_name>
         <sys_package display_value="amway" source="x_211506_amway">b26658254f21130017f330318110c78b</sys_package>
         <sys_policy/>
         <sys_scope display_value="amway">b26658254f21130017f330318110c78b</sys_scope>
         <sys_update_name>sys_dictionary_x_211506_amway_clock_clockspell</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-20 03:42:14</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-04-20 06:38:23</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

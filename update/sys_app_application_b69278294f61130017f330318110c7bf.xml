@@ -8,7 +8,7 @@
         <hint/>
         <name/>
         <order>100</order>
-        <roles/>
+        <roles>snc_internal</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-18 07:32:03</sys_created_on>

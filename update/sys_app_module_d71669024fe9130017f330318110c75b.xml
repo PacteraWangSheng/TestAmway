@@ -20,6 +20,8 @@
         <query/>
         <report/>
         <roles>x_211506_amway.clock_user</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-20 00:33:11</sys_created_on>

@@ -29,5 +29,8 @@
                 <element label="50：作業中止" value="50"/>
             </choice>
         </element>
+        <index name="index">
+            <element name="iraisha"/>
+        </index>
     </element>
 </database>
